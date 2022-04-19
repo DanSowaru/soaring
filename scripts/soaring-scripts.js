@@ -1,0 +1,20 @@
+// Vanta Birds
+VANTA.BIRDS({
+	el: "#vanta-canvas",
+	mouseControls: true,
+	touchControls: true,
+	gyroControls: false,
+	minHeight: 200.0,
+	minWidth: 200.0,
+	scale: 3.0,
+	scaleMobile: 1.0,
+	backgroundColor: 0xff84,
+	color1: 0x0,
+	color2: 0xff96,
+	birdSize: 0.5,
+	wingSpan: 40.0,
+	separation: 71.0,
+	cohesion: 100.0,
+	quantity: 5.0,
+	backgroundAlpha: 0.0,
+});
